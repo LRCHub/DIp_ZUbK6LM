@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "Shoo-Bee-Doo-Wap-Wap!(Inori Minase LIVE TOUR 2018 BLUE COMPASS)",
+  "base_artist": "水瀬いのり",
+  "createdAt": "2025-12-18T10:37:03.186802Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Shoo-Bee-Doo-Wap-Wap!",
+      "artist": "水瀬いのり",
+      "has_synced": false,
+      "path": "select/pl_01_Shoo-Bee-Doo-Wap-Wap!_水瀬いのり.txt"
+    }
+  ]
+}
